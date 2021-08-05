@@ -318,7 +318,7 @@ let selectedPart = null;
 
 let mouseNotPressedPreviously = true;
 
-let partsToPlace = 6;
+let partsToPlace = 4;
 
 function drawPlacing() {
 
